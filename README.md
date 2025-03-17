@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahihubb&label=Profile%20views&color=0e75b6&style=flat" alt="mahihubb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahihubb" alt="mahihubb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **mahithaofficial007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ReBPVxnlME-jeC8NmuROIYUgHc7GcvTK/view?usp=drive_link](https://drive.google.com/file/d/1ReBPVxnlME-jeC8NmuROIYUgHc7GcvTK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
